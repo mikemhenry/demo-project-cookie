@@ -1,7 +1,7 @@
 # How to contribute
 
 We welcome contributions from external contributors, and this document
-describes how to merge code changes into this demo_project_cookie. 
+describes how to merge code changes into this demo_project_cookie.
 
 ## Getting Started
 
